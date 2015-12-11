@@ -1,1 +1,1 @@
-web: python Pyhero.app
+web: python app.py
